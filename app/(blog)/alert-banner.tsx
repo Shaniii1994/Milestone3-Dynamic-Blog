@@ -8,7 +8,7 @@ export default function AlertBanner() {
       {/* Logo Section */}
       <div className="flex items-center space-x-2">
        
-      <h1 className="text-4xl font-bold hover:text-sky-500">Shanyal's Blogsite</h1>
+      <h1 className="text-xl font-bold hover:text-sky-500">Shanyal's Blogsite</h1>
       </div>
 
       {/* Navigation Links */}
